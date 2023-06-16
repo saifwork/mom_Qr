@@ -10,6 +10,8 @@ void main() {
   // String? merchantId = url.queryParameters['userId'];
   String? merchantId = "100";
 
+  print("Inside Main");
+
   print("--------------------------------------------");
   print(merchantId);
 
